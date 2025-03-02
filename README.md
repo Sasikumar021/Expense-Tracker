@@ -8,13 +8,14 @@ functionalities, including calculating total expenses, viewing
 expenses by category, and generating weekly expense averages.
 
 ## Features
--Add an expense (Date, Description, Amount)
--View total expenses
--Get expense minimization tips
--Calculate weekly average expenses
--View expenses by category
--Save expenses to an Excel file
--Exit the application
+
+1. Add an expense (Date, Description, Amount)  
+2. View total expenses  
+3. Get expense minimization tips  
+4. Calculate weekly average expenses  
+5. View expenses by category  
+6. Save expenses to an Excel file  
+7. Exit the application
 
 ## Technologies Used
 Python (for core logic)
